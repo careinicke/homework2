@@ -24,6 +24,11 @@ p {
   margin-right: auto;
 }
 
+#text {
+  font-size: 25px;
+  font-family: "Helevetica";
+}
+
 #b {
   background-color: #80bfff;
   border: none;
